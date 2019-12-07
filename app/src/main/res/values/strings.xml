@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Eval2_2411</string>
+    <string name="txtTitulo">Lista de equipos</string>
+    <string name="txtMarca">Ingrese marca:</string>
+    <string name="txtDescripcion">Ingrese descripción:</string>
+    <string name="btnActualizar">Actualizar</string>
+</resources>
